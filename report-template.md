@@ -39,6 +39,6 @@ Summarize the results of the machine learning models, and include a recommendati
 * Which one seems to perform best? How do you know it performs best?
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
-Based on the analysis, it appears that Model 2 outperforms Model 1 in predicting high-risk loans and has an overall higher accuracy in predicting both labels. Specifically, Model 2 achieved a relatively high precision in predicting high-risk loans while correctly identifying all high-risk loans in the dataset, which is considered a relatively good performance in this context. Therefore, I would recommend using Model 2 in identifying high-risk loans and overall better accuracy in predicting labels.
+Based on the analysis, it appears that Model 2 performs better than Model 1 in predicting high-risk loans and overall has higher accuracy in predicting both labels. Model 2 achieved a high precision in predicting high-risk loans while correctly identifying all high-risk loans in the dataset, which is considered a good performance in this context. Therefore, I would recommend using Model 2 in identifying high-risk loans and as a whole it is better accuracy in predicting labels.
 
 If you do not recommend any of the models, please justify your reasoning.
